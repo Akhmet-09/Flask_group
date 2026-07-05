@@ -18,6 +18,10 @@ def about():
 def tel():
     return "This is the Tel Page."
 
+# Usinday etip @app.route('/) dep aship keteberesen!
+# Bilshirap atpa basqa zat jazaman dep, tek usini jaz basqa zat jazpa!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+#Terminalda py main.py dep kor!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 # Run the app if this file is executed directly
 if __name__ == '__main__':
     app.run(debug=True)
